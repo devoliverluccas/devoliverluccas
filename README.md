@@ -46,10 +46,10 @@ Desenvolvedor **Full Stack** focado em construir **APIs, sistemas web e soluçõ
 
 ### 📊 GitHub em números
 
-<div align="center">
+<p align="center">
   <img height="180" src="https://readme-stats-fork-mauve.vercel.app/api?username=devoliverluccas&theme=dark&show_icons=true&count_private=true&hide_border=true&border_radius=0" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-streak-stats-five-roan.vercel.app?user=devoliverluccas&theme=dark&hide_border=true&border_radius=0" alt="GitHub Streak" />
-</div>
+</p>
 
 ---
 
