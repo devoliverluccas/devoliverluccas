@@ -29,7 +29,8 @@ Desenvolvedor **Full Stack** focado em construir **APIs, sistemas web e soluçõ
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" height="40" alt="Postman" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Npm-Dark.svg" height="40" alt="npm" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" height="40" alt="Notion" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="40"  alt="Jira" />
+          
 </div>
 
 ---
