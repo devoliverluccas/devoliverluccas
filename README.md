@@ -1,37 +1,56 @@
-## Oi eu sou o Lucas Oliveira, desenvolvedor Full Stack!
+## 👋 Olá, eu sou o Lucas Oliveira  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+Desenvolvedor **Full Stack** focado em construir **APIs, sistemas web e soluções bem estruturadas**, com atenção real a organização, desempenho e manutenção de código.  
+Gosto de transformar ideias confusas em software funcional — sem magia, só engenharia bem feita.
 
-<h3 align="left">Linguagens e Tecnologias</h3>
+---
 
-<img align="right" height="150" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd"  />
-
+### 🚀 Stack Principal
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" height="45" alt="express logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" height="45" alt="express logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" height="45" alt="express logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg" height="45" alt="express logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" height="45" alt="express logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" height="45" alt="express logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" height="45" alt="express logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" height="45" alt="express logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg" height="45" alt="express logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Npm-Dark.svg" height="45" alt="express logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" height="45" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="45" alt="express logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" height="45" alt="express logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="45" />
 </div>
 
-<div align="right">
- <table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=devoliverluccas&theme=dark&show_icons=true&count_private=true">
+---
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=devoliverluccas&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=devoliverluccas&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=12"></td></tr></tbody></table>
+### 🛠️ Ferramentas do Dia a Dia
 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Npm-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" />
 </div>
+
+---
+
+### 📊 GitHub em números
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="180" src="https://readme-stats-fork-mauve.vercel.app/api?username=devoliverluccas&theme=dark&show_icons=true&count_private=true&hide_border=true" />
+    </td>
+    <td align="center">
+      <img height="180" src="https://github-readme-streak-stats-five-roan.vercel.app?user=devoliverluccas&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" 
+    src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
