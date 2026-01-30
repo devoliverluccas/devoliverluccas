@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" height="45" alt="express logo"  />
 </div>
 
-<div align="left">
+<div align="right">
  <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=devoliverluccas&theme=dark&show_icons=true&count_private=true">
 
