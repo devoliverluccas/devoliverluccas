@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Lucas Oliveira
 
-Desenvolvedor **Full Stack** focado em construir **APIs, sistemas web e soluções bem estruturadas**, com atenção real a organização, desempenho e manutenção de código. Gosto de transformar ideias confusas em software funcional — sem magia, só engenharia bem feita.
+Desenvolvedor **Full Stack** focado em construir **APIs, sistemas web e soluções bem estruturadas**, com atenção real a organização, desempenho e manutenção de código. Gosto de transformar ideias em software funcional.
 
 ---
 
