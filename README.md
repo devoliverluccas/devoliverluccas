@@ -15,7 +15,11 @@ Desenvolvedor **Full Stack** focado em construir **APIs, sistemas web e soluçõ
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="45" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="45" alt="Docker" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind" />
 </div>
+
 ---
 
 ### 🛠️ Ferramentas do Dia a Dia
@@ -40,6 +44,8 @@ Desenvolvedor **Full Stack** focado em construir **APIs, sistemas web e soluçõ
 
 ---
 
+### 📊 GitHub em números
+
 <div align="center">
   <img height="180" src="https://readme-stats-fork-mauve.vercel.app/api?username=devoliverluccas&theme=dark&show_icons=true&count_private=true&hide_border=true&border_radius=0" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-streak-stats-five-roan.vercel.app?user=devoliverluccas&theme=dark&hide_border=true&border_radius=0" alt="GitHub Streak" />
@@ -63,6 +69,6 @@ Desenvolvedor **Full Stack** focado em construir **APIs, sistemas web e soluçõ
 
 <div align="center">
   
-  **"Código limpo não é escrito seguindo regras. É escrito por desenvolvedores que se importam."**
+**"Código limpo não é escrito seguindo regras. É escrito por desenvolvedores que se importam."**
   
 </div>
