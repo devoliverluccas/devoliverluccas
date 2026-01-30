@@ -44,10 +44,14 @@ Desenvolvedor **Full Stack** focado em construir **APIs, sistemas web e soluçõ
 
 ---
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://readme-stats-fork-mauve.vercel.app/api?username=devoliverluccas&theme=dark&show_icons=true&count_private=true&hide_border=true&border_radius=0" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-streak-stats-five-roan.vercel.app?user=devoliverluccas&theme=dark&hide_border=true&border_radius=0" alt="GitHub Streak" /></td>
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none; padding: 5px;">
+        <img style="border-radius: 10px;" src="https://readme-stats-fork-mauve.vercel.app/api?username=devoliverluccas&theme=dark&show_icons=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
+      </td>
+      <td style="border: none; padding: 5px;">
+        <img style="border-radius: 10px;" src="https://github-readme-streak-stats-five-roan.vercel.app?user=devoliverluccas&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+      </td>
     </tr>
   </table>
 </div>
