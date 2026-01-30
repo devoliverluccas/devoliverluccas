@@ -43,13 +43,14 @@ Desenvolvedor **Full Stack** focado em construir **APIs, sistemas web e soluçõ
 - Integração de serviços e **automação de processos**
 
 ---
-
-### 📊 GitHub em números
-
-<p align="center">
-  <img height="180" src="https://readme-stats-fork-mauve.vercel.app/api?username=devoliverluccas&theme=dark&show_icons=true&count_private=true&hide_border=true&border_radius=0" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats-five-roan.vercel.app?user=devoliverluccas&theme=dark&hide_border=true&border_radius=0" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://readme-stats-fork-mauve.vercel.app/api?username=devoliverluccas&theme=dark&show_icons=true&count_private=true&hide_border=true&border_radius=0" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-streak-stats-five-roan.vercel.app?user=devoliverluccas&theme=dark&hide_border=true&border_radius=0" alt="GitHub Streak" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
