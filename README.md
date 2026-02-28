@@ -1,8 +1,7 @@
 ## 👋 Olá, eu sou o Lucas Oliveira
 
-Desenvolvedor **Full Stack** focado em construir **APIs, sistemas web e soluções bem estruturadas**, com atenção real a organização, desempenho e manutenção de código. Gosto de transformar ideias em software funcional.
 
----
+**Desenvolvedor Full Stack** com background em design, o que me dá uma visão diferenciada tanto na construção de **APIs e sistemas backend** quanto na criação de interfaces. Trabalho com **TypeScript, Node.js, React e Next.js**, com foco em código organizado, arquitetura em camadas e soluções que escalam. Busco uma oportunidade onde possa **colaborar com um time** e evoluir junto com ele.
 
 ### 🚀 Stack Principal
 
