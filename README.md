@@ -1,6 +1,16 @@
-## 👋 Olá, eu sou o Lucas Oliveira
+<div align="left">
 
-**Desenvolvedor Full Stack** com background em design, o que me dá uma visão diferenciada tanto na construção de **APIs e sistemas backend** quanto na criação de interfaces. Trabalho com **TypeScript, Node.js, React e Next.js**, com foco em código organizado, arquitetura em camadas e soluções que escalam.
+## Lucas Oliveira
+
+**Full Stack Developer**
+
+Desenvolvo APIs robustas e interfaces bem estruturadas com foco em arquitetura limpa e código sustentável. Background em design me dá uma visão diferenciada entre backend e frontend.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-34b600298/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasferreiradeoliveira.20@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lucodes.com.br/portfolio)
+
+</div>
 
 ---
 
@@ -17,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind" />
 </div>
 
----
-
 ### 🔧 Também trabalho com
 
 <div align="left">
@@ -27,9 +35,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="40" alt="MySQL" />
 </div>
 
----
-
-### 🛠️ Ferramentas do Dia a Dia
+### 🛠️ Ferramentas
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" height="40" alt="VS Code" />
@@ -43,27 +49,8 @@
 
 ### 💼 O que eu faço
 
-Construo APIs RESTful com Node.js e TypeScript, focando em arquitetura limpa, separação de responsabilidades e código que outras pessoas consigam manter. No frontend, trabalho com React e Next.js, aproveitando o background em design pra entregar interfaces funcionais e bem estruturadas. Banco de dados relacional (PostgreSQL e MySQL), Docker e integração entre serviços também fazem parte do dia a dia.
+**Backend** — APIs RESTful com Node.js e TypeScript, arquitetura em camadas, separação de responsabilidades e código que outras pessoas consigam manter.
 
----
+**Frontend** — Interfaces com React e Next.js, unindo performance e boa experiência visual com base em um background sólido em design.
 
-<div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td style="border: none; padding: 5px;">
-        <img style="border-radius: 10px;" src="https://readme-stats-fork-mauve.vercel.app/api?username=devoliverluccas&theme=dark&show_icons=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
-      </td>
-      <td style="border: none; padding: 5px;">
-        <img style="border-radius: 10px;" src="https://github-readme-streak-stats-five-roan.vercel.app?user=devoliverluccas&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-34b600298/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasferreiradeoliveira.20@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lucodes.com.br/portfolio)
+**Infra & Dados** — PostgreSQL, MySQL, Docker e integração entre serviços no dia a dia.
